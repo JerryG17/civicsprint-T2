@@ -35,3 +35,7 @@ El proyecto consiste en una plataforma que ofrezca al usuario información relev
 * Página de orientación 
 
 ![Página de orientacion](images/wireframes/orientación.png)
+
+* Pagina de denuncias
+
+![Página de denuncias](images/wireframes/denunciascultura.png)
