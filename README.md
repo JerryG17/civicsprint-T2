@@ -39,3 +39,5 @@ El proyecto consiste en una plataforma que ofrezca al usuario información relev
 * Pagina de denuncias
 
 ![Página de denuncias](images/wireframes/denunciascultura.png)
+
+![Página de recursos descargables](images/wireframes/Descargables.png)
