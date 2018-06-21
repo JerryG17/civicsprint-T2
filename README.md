@@ -32,6 +32,10 @@ El proyecto consiste en una plataforma que ofrezca al usuario información relev
 
 ![Página de inicio del sitio](images/wireframes/index.png)
 
+* Materiales descargables orientados a cultura cívica y prevención del delito enfocada a las poblaciones más vulnerables (mujeres, niños y ancianos).
+
+![Página de recursos descargables](imagenes/wireframes/Descargables.png)
+
 * Página de orientación 
 
 ![Página de orientacion](images/wireframes/orientación.png)
